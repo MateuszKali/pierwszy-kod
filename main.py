@@ -4,8 +4,8 @@ print('2. odejmowanie')
 print('3. mnożenie')
 print('4. dzielenie')
 
-a = int(input('Podaj pierwszą liczbę'))
-b = int(input('Podaj drugą liczbę'))
+a = int(input('Podaj pierwszą liczbę!'))
+b = int(input('Podaj drugą liczbę!'))
 
 dzialanie = input('Wybierz działanie')
 if dzialanie == '1':
